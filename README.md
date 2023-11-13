@@ -5,6 +5,10 @@
 
 
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<h3 align="center">🛠 Tech Stack 🛠</h3>
+<p align="center">Techs that I've used at least once</p>
+ <p align="center"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"></p>
 
-<a href="https://github.com/jeong202/jeong202" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+
+
+
