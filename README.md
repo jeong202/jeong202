@@ -1,3 +1,6 @@
+<h1 align="center">
+  Welcome to my GitHub
+</h1>
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='260'>
 
 <div align="center">
