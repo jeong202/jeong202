@@ -26,18 +26,18 @@
 웹표준을 준수하여 다양한 사이트를 제작했습니다. HTML,CSS,Javascript를 사용하였습니다. 레이아웃 구조와 페이지 구조 그리고 반응형 웹에 대해 학습했습니다.
 
 [View](https://jeong202.github.io/web-standard/)&nbsp;&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/jeong202/web-standard)
-
+<br>
 <h4>😁GSAP</h4>
 GSPA를 이용해 패럴랙스 효과를 구현했습니다.
 
 [View](http://jhyjhy968.dothome.co.kr/javascript/gsap/gsap01.html)&nbsp;&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/jeong202/gsap)
-
+<br>
 <h4>😃javascript</h4>
 자바스크립트로 데이터를 저장하고 불러오며, 저장된 데이터를 실행하고 제어하는 방법에 대해 학습했습니다. 이 과정에서 문자열 객체, 배열 객체, 수학 객체, 브라우저 객체, 요소 객체, 이벤트 객체를 다뤘습니다.<br>
 또한 데이터 효과, 퀴즈 효과, 마우스 효과, 슬라이드 효과 등 다양한 기술을 배웠습니다. 이러한 학습을 통해 실제로 웹 페이지에서 데이터를 다루고 시각적인 효과를 부여하는 다양한 기능을 구현하는 방법을 이해했습니다.<br>
 
 [View](http://jhyjhy968.dothome.co.kr/javascript/gsap/gsap01.html)&nbsp;&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/jeong202/gsap)
-
+<br>
 
 
 <br/>
