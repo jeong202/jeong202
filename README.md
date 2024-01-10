@@ -19,15 +19,17 @@
 새로운 기술의 세계에서 끊임없는 도전과 성장을 즐기며,<br>
 협업과 창의성으로 더 나은 미래를 만들어가고 싶습니다!<br>
 함께 꿈을 향해 나아가요!
-</div>
+</div>   
 <div align="center">
 
 </div>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>   
+
 <div align="center">
   
 📧Email📧
 </div>
+
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools
