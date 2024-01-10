@@ -19,20 +19,44 @@
 새로운 기술의 세계에서 끊임없는 도전과 성장을 즐기며,<br>
 협업과 창의성으로 더 나은 미래를 만들어가고 싶습니다!<br>
 함께 꿈을 향해 나아가요!
-</div>   
+</div>
+
+---
+<h4>😀웹표준 사이트</h4>
+웹표준을 준수하여 다양한 사이트를 제작했습니다. HTML,CSS,Javascript를 사용하였습니다. 레이아웃 구조와 페이지 구조 그리고 반응형 웹에 대해 학습했습니다.
+
+[View](https://jeong202.github.io/web-standard/)&nbsp;&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/jeong202/web-standard)
+
+<h4>😁GSAP</h4>
+GSPA를 이용해 패럴랙스 효과를 구현했습니다.
+
+[View](http://jhyjhy968.dothome.co.kr/javascript/gsap/gsap01.html)&nbsp;&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/jeong202/gsap)
+
+<h4>😃javascript</h4>
+GSPA를 이용해 패럴랙스 효과를 구현했습니다.
+
+[View](http://jhyjhy968.dothome.co.kr/javascript/gsap/gsap01.html)&nbsp;&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/jeong202/gsap)
+
+
+
+<br/>
+<br/>
+<br/>
 <div align="center">
 
 </div>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>   
-
+<h4 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h4>   
 <div align="center">
   
 📧Email📧
 jhyjhy968@gmail.com
 </div>
+<br/>
+<br/>
+<br/>
 
 
-<div align="center">🛠 Tech Stack 🛠</div>
+<h2 align="center">🛠 Tech Stack 🛠</h2>
 <p align="center">Techs that I've used at least once</p>
  <p align="center">
   <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white"></a>
