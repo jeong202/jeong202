@@ -24,18 +24,31 @@
 웹표준을 준수하여 다양한 사이트를 제작했습니다. HTML,CSS,Javascript를 사용하였습니다. 레이아웃 구조와 페이지 구조 그리고 반응형 웹에 대해 학습했습니다.
 
 [View](https://jeong202.github.io/web-standard/)&nbsp;&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/jeong202/web-standard)
-<br>
+<br><br>
+
 <h4>😁GSAP</h4>
 GSPA를 이용해 패럴랙스 효과를 구현했습니다.
 
 [View](http://jhyjhy968.dothome.co.kr/javascript/gsap/gsap01.html)&nbsp;&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/jeong202/gsap)
-<br>
+<br><br>
+
 <h4>😃Javascript</h4>
 자바스크립트로 데이터를 저장하고 불러오며, 저장된 데이터를 실행하고 제어하는 방법에 대해 학습했습니다. 이 과정에서 문자열 객체, 배열 객체, 수학 객체, 브라우저 객체, 요소 객체, 이벤트 객체를 다뤘습니다.<br>
 또한 데이터 효과, 퀴즈 효과, 마우스 효과, 슬라이드 효과 등 다양한 기술을 배웠습니다. 이러한 학습을 통해 실제로 웹 페이지에서 데이터를 다루고 시각적인 효과를 부여하는 다양한 기능을 구현하는 방법을 이해했습니다.<br>
 
 [View](https://jeong202.github.io/js/)&nbsp;&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/jeong202/js)
-<br>
+<br><br>
+
+<h4>😀여러 가지 프레임워크를 사용하여 웹사이트 만들기</h4>
+다양한 프레임워크를 이용하여 프레임워크들을 어떻게 적용하는지 알아보고, 각 프레임워크들의 장단점을 비교 분석해봤습니다.<br>
+가장 기본이 되는 HTML/CSS를 이용하여 사이트를 먼저 만들고, 이를 바탕으로 Vite, Vue, React, Next.js를 통해 사이트를 제작했습니다.<br>
+GSAP를 사용하여 가로모드를 구현하였고 lenis를 사용하여 부드러운 스크롤 효과를 구현했습니다.
+
+- Vite :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[View](https://vite-project-2023hae.netlify.app/)&nbsp;&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/jeong202/vite-project)<br>
+- Vue :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[View](https://vue-project2-ten.vercel.app/)&nbsp;&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/jeong202/vue-project2)<br>
+- React :&nbsp;&nbsp;&nbsp;&nbsp;[View](https://jeong202.github.io/js/)&nbsp;&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/jeong202/js)<br>
+- Next.js :&nbsp;&nbsp;[View](https://jeong202.github.io/js/)&nbsp;&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/jeong202/js)<br>
+<br><br>
 
 
 <br/>
