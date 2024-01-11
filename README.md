@@ -52,7 +52,7 @@ netlify,vercel,firebase을 통해 배포하였습니다.
 - Next.js :&nbsp;&nbsp;[View](https://nextjs-project-kappa-one.vercel.app/)&nbsp;&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/jeong202/nextjs-project)<br>
 <br><br>
 
-<h4>😁GuitarYouTubeP</h4>
+<h4>😁GuitarYouTube</h4>
 리액트와 유튜브 API를 이용하여 기타리스트의 기타연주와 관련된 사이트를 만들었습니다.<br>
 리액트에서 컴포넌트를 어떻게 작성하고 관리하는지 학습할 수 있습니다. 상태(state)와 속성(props)의 사용법을 익힐 수 있습니다.<br>
 YouTube API와의 통신을 통해 외부 데이터를 가져오는 방법을 배울 수 있습니다. 비동기 작업 및 데이터 상태 관리를 다룰 수 있습니다.<br>
