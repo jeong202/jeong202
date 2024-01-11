@@ -42,7 +42,8 @@ GSPA를 이용해 패럴랙스 효과를 구현했습니다.
 <h4>😀여러 가지 프레임워크를 사용하여 웹사이트 만들기</h4>
 다양한 프레임워크를 이용하여 프레임워크들을 어떻게 적용하는지 알아보고, 각 프레임워크들의 장단점을 비교 분석해봤습니다.<br>
 가장 기본이 되는 HTML/CSS를 이용하여 사이트를 먼저 만들고, 이를 바탕으로 Vite, Vue, React, Next.js를 통해 사이트를 제작했습니다.<br>
-GSAP를 사용하여 가로모드를 구현하였고 lenis를 사용하여 부드러운 스크롤 효과를 구현했습니다.
+GSAP를 사용하여 가로모드를 구현하였고 lenis를 사용하여 부드러운 스크롤 효과를 구현했습니다.<br>
+
 
 - Vite :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[View](https://vite-project-2023hae.netlify.app/)&nbsp;&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/jeong202/vite-project)<br>
 - Vue :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[View](https://vue-project2-ten.vercel.app/)&nbsp;&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/jeong202/vue-project2)<br>
