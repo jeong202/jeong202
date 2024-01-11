@@ -43,13 +43,32 @@ GSPA를 이용해 패럴랙스 효과를 구현했습니다.
 다양한 프레임워크를 이용하여 프레임워크들을 어떻게 적용하는지 알아보고, 각 프레임워크들의 장단점을 비교 분석해봤습니다.<br>
 가장 기본이 되는 HTML/CSS를 이용하여 사이트를 먼저 만들고, 이를 바탕으로 Vite, Vue, React, Next.js를 통해 사이트를 제작했습니다.<br>
 GSAP를 사용하여 가로모드를 구현하였고 lenis를 사용하여 부드러운 스크롤 효과를 구현했습니다.<br>
+netlify,vercel,firebase을 통해 배포하였습니다.
 
 
 - Vite :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[View](https://vite-project-2023hae.netlify.app/)&nbsp;&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/jeong202/vite-project)<br>
 - Vue :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[View](https://vue-project2-ten.vercel.app/)&nbsp;&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/jeong202/vue-project2)<br>
-- React :&nbsp;&nbsp;&nbsp;&nbsp;[View](https://jeong202.github.io/js/)&nbsp;&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/jeong202/js)<br>
-- Next.js :&nbsp;&nbsp;[View](https://jeong202.github.io/js/)&nbsp;&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/jeong202/js)<br>
+- React :&nbsp;&nbsp;&nbsp;&nbsp;[View](https://jeong202.github.io/js/)&nbsp;&nbsp;&nbsp;&nbsp;[GitHub](https://react-site2023.web.app/)<br>
+- Next.js :&nbsp;&nbsp;[View](https://nextjs-project-kappa-one.vercel.app/)&nbsp;&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/jeong202/nextjs-project)<br>
 <br><br>
+
+<h4>😁GuitarYouTubeP</h4>
+리액트와 유튜브 API를 이용하여 기타리스트의 기타연주와 관련된 사이트를 만들었습니다.<br>
+리액트에서 컴포넌트를 어떻게 작성하고 관리하는지 학습할 수 있습니다. 상태(state)와 속성(props)의 사용법을 익힐 수 있습니다.<br>
+YouTube API와의 통신을 통해 외부 데이터를 가져오는 방법을 배울 수 있습니다. 비동기 작업 및 데이터 상태 관리를 다룰 수 있습니다.<br>
+
+[View](https://youtubeproject2023.netlify.app/)&nbsp;&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/jeong202/youtube-project2)
+<br><br>
+
+<h4>😃myuduck</h4>
+서울지역에 위치한 대극장의 뮤지컬 공연에 대한 정보를 볼 수 있는 사이트 입니다.<br>
+대극장,뮤지컬,배우의 정보를 제공합니다.팀프로젝트로 진행되었으며<br>
+PHP를 이용하여 제작한 사이트입니다. DB는 MySQL을 사용하였습니다.<br>
+카카오지도 API를 연동하였고 뮤지컬과 배우 찜기능을 구현했습니다.
+
+[View](http://jhyjhy968.dothome.co.kr/myuduck/main/main.php)&nbsp;&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/jeong202/myuduck)
+<br><br>
+
 
 
 <br/>
