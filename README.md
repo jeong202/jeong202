@@ -95,8 +95,12 @@ PHP를 이용하여 제작한 사이트입니다. DB는 MySQL을 사용하였습
 <h4 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h4>   
 <div align="center">
   
-📧Email📧
+📧Email📧   
 jhyjhy968@gmail.com
+<br/>
+<br/>
+📝Blog📝   
+[코드로 엮는 이야기](https://august-jhy.tistory.com/)
 </div>
 <br/>
 <br/>
